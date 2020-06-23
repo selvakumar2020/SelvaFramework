@@ -18,7 +18,7 @@ public class StepDefinition {
 			
 			System.out.println("newly added in 11:27");
 			System.out.println("newly added in 11:28");
-			
+			System.out.println("branch developone code");
 			
 		}
 
@@ -28,6 +28,7 @@ public class StepDefinition {
 	        System.out.println("When Steps passwrod:"+password);
 	        System.out.println("newly added in 11:27");
 			System.out.println("newly added in 11:28");
+			System.out.println("branch developone code");
 			
 	    }
 		
@@ -35,6 +36,7 @@ public class StepDefinition {
 		public void login_Home_page_displayed_successfully() {
 		    // Write code here that turns the phrase above into concrete actions
 		    System.out.println("Then Statement executed successfully");
+		    System.out.println("branch developone code");
 		}
 
 
