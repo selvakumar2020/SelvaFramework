@@ -12,6 +12,9 @@ public class StepDefinition {
 		public void user_is_on_landing_page() {
 		    // Write code here that turns the phrase above into concrete actions
 		    System.out.println("Given statement Executed successfully");
+			System.out.println("newly added in 11:17");
+			System.out.println("newly added in 11:18");
+			System.out.println("newly added in 11:19");
 		}
 
 		@When("^Enter the username \"([^\"]*)\" and password \"([^\"]*)\" and click the submit button$")
