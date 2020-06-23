@@ -18,7 +18,7 @@ public class StepDefinition {
 			
 			System.out.println("newly added in 11:27");
 			System.out.println("newly added in 11:28");
-			System.out.println("newly added in 11:29");
+			
 			
 		}
 
@@ -28,7 +28,7 @@ public class StepDefinition {
 	        System.out.println("When Steps passwrod:"+password);
 	        System.out.println("newly added in 11:27");
 			System.out.println("newly added in 11:28");
-			System.out.println("newly added in 11:29");
+			
 	    }
 		
 		@Then("Login Home page displayed successfully")
