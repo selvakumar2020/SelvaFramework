@@ -15,12 +15,20 @@ public class StepDefinition {
 			System.out.println("newly added in 11:17");
 			System.out.println("newly added in 11:18");
 			System.out.println("newly added in 11:19");
+			
+			System.out.println("newly added in 11:27");
+			System.out.println("newly added in 11:28");
+			System.out.println("newly added in 11:29");
+			
 		}
 
 		@When("^Enter the username \"([^\"]*)\" and password \"([^\"]*)\" and click the submit button$")
 	    public void enter_the_username_something_and_password_something_and_click_the_submit_button(String username, String password) throws Throwable {
 	        System.out.println("When steps:"+username);
 	        System.out.println("When Steps passwrod:"+password);
+	        System.out.println("newly added in 11:27");
+			System.out.println("newly added in 11:28");
+			System.out.println("newly added in 11:29");
 	    }
 		
 		@Then("Login Home page displayed successfully")
