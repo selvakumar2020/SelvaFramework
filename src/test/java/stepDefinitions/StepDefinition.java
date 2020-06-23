@@ -39,12 +39,7 @@ public class StepDefinition {
 		    System.out.println("branch developone code");
 		}
 		
-		@Then("Login Home page displayed successfully1")
-		public void login_Home_page_displayed_successfully1() {
-		    // Write code here that turns the phrase above into concrete actions
-		    System.out.println("Then Statement executed successfully");
-		    System.out.println("branch developone code");
-		    System.out.println("newly updated method");
+		
 		}
 
 
