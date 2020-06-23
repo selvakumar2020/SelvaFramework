@@ -17,8 +17,7 @@ public class StepDefinition {
 			System.out.println("newly added in 11:19");
 			
 			System.out.println("newly added in 11:27");
-			System.out.println("newly added in 11:28");
-			System.out.println("branch developone code");
+			
 			
 		}
 
@@ -28,7 +27,7 @@ public class StepDefinition {
 	        System.out.println("When Steps passwrod:"+password);
 	        System.out.println("newly added in 11:27");
 			System.out.println("newly added in 11:28");
-			System.out.println("branch developone code");
+			
 			
 	    }
 		
